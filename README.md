@@ -279,10 +279,10 @@ I'm always interested in collaborating on exciting projects, discussing Automati
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00D9FF,50:B47FFF,100:E74EC8&amp;height=100&amp;section=footer" width="100%"/>
   
   **⭐ From [lpi-code](https://github.com/lpi-code) | 🚀 Build. Break. Learn. 🚀**
   
   *"The best way to predict the future is to automate it."*
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00D9FF,50:B47FFF,100:E74EC8&amp;height=100&amp;section=footer" width="100%"/>
   
 </div>

@@ -199,52 +199,6 @@ timeline
   <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:00D9FF,50:B47FFF,100:E74EC8&amp;height=2" width="100%"/>
 </div>
 
-## 💡 Skills & Expertise
-
-<details>
-<summary>🎯 Click to expand my skill matrix</summary>
-
-### Infrastructure & Automation
-- ✅ Infrastructure as Code (Terraform, Ansible, Pulumi)
-- ✅ Configuration Management (Ansible, Chef, Puppet)
-- ✅ GitOps (ArgoCD, FluxCD)
-- ✅ Service Mesh (Istio, Linkerd)
-
-### Container & Orchestration
-- ✅ Docker & Docker Compose
-- ✅ Kubernetes (EKS, AKS, GKE, On-prem)
-- ✅ Helm Charts & Kustomize
-- ✅ Container Security (Trivy, Falco)
-
-### CI/CD & Automation
-- ✅ GitLab CI/CD
-- ✅ GitHub Actions
-- ✅ Jenkins
-- ✅ ArgoCD
-- ✅ Tekton Pipelines
-
-### Cloud Platforms
-- ✅ AWS (EC2, S3, Lambda, ECS, EKS, RDS, CloudFormation)
-- ✅ Microsoft Azure (VM, AKS, Storage, Functions)
-- ✅ OpenStack
-
-### Monitoring & Logging
-- ✅ Prometheus & Alertmanager
-- ✅ Grafana & Loki
-- ✅ ELK Stack (Elasticsearch, Logstash, Kibana)
-- ✅ Datadog, New Relic
-
-### Security & Compliance
-- ✅ Network Security (Stormshield, Firewall Management)
-- ✅ Security Scanning (Trivy, SonarQube)
-- ✅ Secrets Management (Vault, Sealed Secrets)
-- ✅ Compliance Automation
-
-</details>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:00D9FF,50:B47FFF,100:E74EC8&amp;height=2" width="100%"/>
-</div>
 
 ## 📫 Let's Connect!
 

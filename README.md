@@ -6,8 +6,8 @@
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-buildbreaklearn.dev-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://buildbreaklearn.dev)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Loïc_Piernas-B47FFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piernas-loic)
-  [![Malt](https://img.shields.io/badge/Malt-Freelance_Profile-E74EC8?style=for-the-badge&logo=malt&logoColor=white)](https://www.malt.fr/profile/lpi-code1)
-  [![Email](https://img.shields.io/badge/Email-Contact_Me-B47FFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loic.piernas@buildbreaklearn.dev)
+  [![Malt](https://img.shields.io/badge/Malt-Freelance_Profile-E74EC8?style=for-the-badge&logo=malt&logoColor=white)](https://www.malt.fr/profile/loicpiernas1)
+  [![Email](https://img.shields.io/badge/Email-Contact_Me-B47FFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loic.code@piernas.fr)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=lpi-code&color=B47FFF&style=for-the-badge&label=Profile+Views)
   [![Gamer on Linux](https://img.shields.io/badge/Gamer_on_Linux-FF6B35?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/lpi-code)
@@ -191,7 +191,7 @@ timeline
 
 <div align="center">
   
-  ![Snake animation](https://raw.githubusercontent.com/lpi-code/lpi-code/output/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
   
 </div>
 
